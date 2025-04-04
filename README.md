@@ -22,7 +22,7 @@
 - 💼 Passionate about **Java, Spring Boot, React, AI, Docker, AWS**
 - 🚀 Building modern web apps and AI tools
 - 🛠️ Actively contributing to **Open Source**
-- 📨 Reach me at: `harshitmishra.dev@gmail.com`
+- 📨 Reach me at: `harshitmishra905872@gmail.com`
 
 ---
 
