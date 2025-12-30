@@ -78,7 +78,7 @@
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=harshit-pro&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="400" />
+        <img src="https://github-readme-stats.vercel.app/api?username=harshit-pro&show_icons=true&theme=tokyonight&hide_border=true" width="400" />
       </td>
       <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit-pro&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="400" />
